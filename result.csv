@@ -1,0 +1,177 @@
+,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood,moods
+1,23,23,Blonde Redhead,4HIwL9ii9CcXpTOTzMq0MP,2007-04-16,43,318800,0.381,0.0189,0.8320000000000001,0.196,0.153,0.166,-5.069,0.0492,120.255,8,4,Sad,Energetic
+4,A Boy Brushed Red Living In Black And White,They're Only Chasing Safety,Underoath,47IWLfIKOKhFnz1FUEUIkE,2004-01-01,60,268000,0.419,0.00171,0.932,0.0,0.1369999999999999,0.445,-3.604,0.106,169.88099999999997,1,4,Energetic,Energetic
+8,A Place for My Head,Hybrid Theory (Bonus Edition),Linkin Park,5rAxhWcgFng3s570sGO2F8,2000-10-24,68,184640,0.603,0.0144,0.908,0.0,0.6709999999999999,0.457,-5.254,0.184,133.063,11,4,Energetic,Energetic
+9,ATTACK,A Beautiful Lie + 30 Seconds To Mars,Thirty Seconds To Mars,6QxTWEvzcJljVZaeTzuHF1,2007-05-15,0,189200,0.331,0.00344,0.8759999999999999,0.0008349999999999,0.732,0.299,-1.894,0.0603,175.009,5,4,Energetic,Energetic
+10,Adagio For Strings,Adagio For Strings,Lucas & Steve,1RvDsjCBDTES3lPiEGNNMY,2018-11-09,55,197189,0.349,0.000877,0.7929999999999999,0.431,0.22,0.0398,-6.747999999999998,0.0677,127.139,10,4,Energetic,Energetic
+13,Afraid of Heights,Afraid of Heights,Billy Talent,0P44AUPRzaIAHNWquN0fGR,2016-07-29,38,225680,0.5429999999999999,0.000168,0.991,1.31e-05,0.374,0.7659999999999999,-2.78,0.0668,150.031,9,4,Energetic,Energetic
+16,Afterlife,Avenged Sevenfold,Avenged Sevenfold,4QdwsME04RG25KPHcPYoox,2007-10-30,13,351560,0.4920000000000001,0.000444,0.95,6.22e-05,0.22,0.391,-4.195,0.076,110.027,2,4,Energetic,Energetic
+19,Alive,Alive,Paris Blohm,2rPJcL8gQauA2nBdRyNZZL,2018-11-16,51,180468,0.494,0.00248,0.847,0.0,0.0502,0.148,-3.996,0.0537,129.909,0,4,Energetic,Energetic
+21,All Mirrors,All Mirrors,Angel Olsen,4ZQdynvfiayhdoq5lcuCQ1,2019-07-31,1,282026,0.429,0.00299,0.6890000000000001,0.00193,0.152,0.23,-7.38,0.0379,105.04,7,4,Sad,Energetic
+22,All These Things I Hate (Revolve Around Me),The Poison,Bullet For My Valentine,6hZkQjIQBY7HAj4nzLUvdx,2005-09-01,39,225440,0.488,0.0303,0.879,0.0,0.288,0.483,-3.505,0.0514,94.003,6,3,Energetic,Energetic
+23,All in the Suit That You Wear,Thank You,Stone Temple Pilots,17Nk1aji6gd26vabky7fMi,2003-11-10,39,219573,0.429,1.94e-05,0.982,0.0185,0.312,0.583,-2.962,0.0617,122.881,2,4,Energetic,Energetic
+26,Always,Back Into Your System,Saliva,7kpa6MWRrPaF3b6C0DgioK,2002-11-12,63,231200,0.363,0.0122,0.906,0.0,0.172,0.371,-4.415,0.0615,181.96400000000003,1,4,Energetic,Energetic
+32,Angry Chair,The Essential Alice In Chains,Alice In Chains,6H0wgcQCOuLYqDuNhMW8KL,2006-07-24,22,288400,0.313,0.0642,0.973,1.22e-06,0.0581,0.118,-3.855,0.109,107.3,8,4,Energetic,Energetic
+34,Anthem of Our Dying Day,Page Avenue (US Non-PA Version),Story Of The Year,4sPJgy0CksvmXp9jC0W4gv,2003-09-16,56,216026,0.388,0.0211,0.8,0.0,0.212,0.357,-6.33,0.0783,194.74400000000003,9,3,Energetic,Energetic
+35,Are You Gonna Be My Girl,Get Born,Jet,305WCRhhS10XUcH6AEwZk6,2003-09-15,75,213800,0.613,0.00148,0.953,0.000582,0.152,0.537,-3.435,0.0855,105.046,2,4,Happy,Energetic
+36,As I Sleep (feat. Charlee),As I Sleep (feat. Charlee),Tobtok,72qlZsoVPpyFxVjL6GUuYI,2018-04-13,55,193471,0.6940000000000001,0.0195,0.8240000000000001,0.0426,0.327,0.202,-6.306,0.161,123.014,8,4,Energetic,Energetic
+41,Away From Me,Life On Display,Puddle Of Mudd,4wzaTdhmBgpch7IXu3CskA,2003-01-01,0,238466,0.396,0.00061,0.93,0.0,0.168,0.195,-2.939,0.1,154.77700000000004,8,4,Energetic,Energetic
+42,Back Where I Belong (feat. Avicii),Back Where I Belong (feat. Avicii),Otto Knows,78W8wiUIlQ2SnWY9TVowKZ,2016-06-03,56,174202,0.4970000000000001,0.0306,0.865,0.0679,0.443,0.595,-3.19,0.0644,125.96,0,4,Energetic,Energetic
+49,Bat Country,City of Evil,Avenged Sevenfold,6irNz2hSXvd2QJG0vXyBFR,2005-06-06,39,311813,0.541,0.000248,0.968,8.28e-06,0.423,0.505,-4.129,0.0396,125.04,0,4,Energetic,Energetic
+53,Beautiful Night,Burden Brothers EP,Burden Brothers,4zhRVs7eqgdroy5E3kKEs2,2002-08-13,38,259529,0.531,0.000508,0.892,0.024,0.144,0.599,-4.54,0.0582,130.13299999999998,7,4,Energetic,Energetic
+64,Blackout,Blackout,(Hed) P.E.,6yTnvHRhUuuaoxy4dHzLGo,2003,37,233266,0.5479999999999999,0.00016,0.8640000000000001,0.00262,0.0354,0.5,-6.257999999999999,0.0557,95.569,1,4,Energetic,Energetic
+67,Bleed American,Bleed American,Jimmy Eat World,61XspFITuKmAlYdQacNCbF,2001-07-17,63,181493,0.438,0.00842,0.938,1.08e-06,0.8059999999999999,0.584,-5.6110000000000015,0.094,160.21200000000005,6,4,Energetic,Energetic
+72,Body Rock,Body Rock,Bingo Players,3wcaYUOKVSEbmmGB43YGqf,2018-11-16,46,158212,0.627,0.00919,0.944,0.00311,0.444,0.551,-4.459,0.344,126.078,5,4,Happy,Energetic
+73,Boiler,Chocolate Starfish And The Hot Dog Flavored Water (Explicit Version),Limp Bizkit,5UaOg4eymp98fxKyx6SHmB,2000-01-01,0,420266,0.443,0.00393,0.722,0.0155,0.0373,0.1669999999999999,-6.3260000000000005,0.0865,111.324,6,4,Energetic,Energetic
+76,Bottom of a Bottle,Shapeshifter,Smile Empty Soul,1XZrMIHtCVJPqK29Mzm44G,2016-04-01,61,221826,0.537,0.00236,0.847,1.16e-06,0.0844,0.459,-5.207999999999998,0.0383,106.055,6,4,Energetic,Energetic
+78,Break Stuff,Significant Other (Explicit),Limp Bizkit,1rJ1xX2XBC8nesYapeO6Av,1999-06-16,0,166706,0.45,0.0108,0.877,0.000643,0.112,0.6629999999999999,-6.676,0.156,108.501,8,4,Energetic,Energetic
+87,Car Underwater,What To Do When You Are Dead,Armor For Sleep,4CilIy3dA3P9Tq2NFqKEOX,2005,52,228706,0.435,0.014,0.774,0.0,0.127,0.448,-5.052,0.0631,147.466,2,4,Energetic,Energetic
+89,Children Of Today,Children Of Today,Blasterjaxx,2106G7MY2XnVyqij2bJVGH,2019-04-19,58,169384,0.507,0.00892,0.836,0.000598,0.485,0.333,-4.357,0.038,130.02700000000002,6,4,Energetic,Energetic
+90,Chocolate,The 1975,The 1975,4WiiRw2PHMNQE0ad6y6GdD,2013-01-01,66,224673,0.614,0.000532,0.938,0.0,0.368,0.607,-4.461,0.0611,100.058,11,4,Happy,Energetic
+91,Chop Suey!,Toxicity,System Of A Down,2DlHlPMa4M17kufBvI2lEN,2001-09-04,79,210240,0.419,0.000278,0.934,0.0015,0.132,0.286,-3.908,0.12,127.288,7,4,Energetic,Energetic
+96,Click Click Boom,Every Six Seconds,Saliva,1LMVGL3030W3mGmRrd2hCm,2001-01-01,0,252400,0.607,0.00259,0.935,0.000221,0.195,0.51,-2.918,0.0506,95.97,6,4,Energetic,Energetic
+104,Come Out And Play (Keep ‘Em Separated),Greatest Hits,The Offspring,0Yb5Kfpf3boElZNa61wPdJ,2005-06-21,68,197800,0.476,0.0535,0.856,6.75e-06,0.0846,0.847,-3.764,0.161,158.671,7,4,Energetic,Energetic
+110,Count That - R3HAB Edit,Count That (R3HAB Edit),Steff da Campo,1J1wnDwBjkFvDVOxNOLVjY,2018-11-09,41,125161,0.6859999999999999,0.0957,0.955,0.00621,0.0809,0.447,-3.665,0.113,123.978,1,4,Energetic,Energetic
+113,Crawling In The Dark,Hoobastank,Hoobastank,1eK4KsyjAzr2xJ86Tj5SWa,2001-01-01,0,175026,0.5920000000000001,0.000295,0.932,7.59e-05,0.138,0.698,-4.4910000000000005,0.0885,93.675,6,4,Energetic,Energetic
+115,Crazy Horses,Crazy Horses,The Osmonds,6LqbJXriVJyqJCd9jYoPqP,1972-10-14,46,153173,0.512,0.215,0.977,0.0,0.343,0.731,-4.505,0.0671,120.165,2,4,Happy,Energetic
+118,Crystal Baller - 2006 Remaster,A Collection,Third Eye Blind,0uESMJnrEKYnZoRbNTvmpB,2006-07-18,31,255760,0.379,0.0142,0.695,1.13e-05,0.196,0.4320000000000001,-5.9220000000000015,0.0705,193.672,0,4,Energetic,Energetic
+126,Dancing Through Sunday,Sing The Sorrow,AFI,4O5GKVbnQ8U9BxYWu0hIug,2003,47,146666,0.555,0.00291,0.98,0.0,0.279,0.643,-2.849,0.0947,114.078,3,4,Energetic,Energetic
+129,Dani California,Stadium Arcadium,Red Hot Chili Peppers,10Nmj3JCNoMeBQ87uw5j8k,2006-05-09,77,282160,0.556,0.0193,0.913,8.59e-06,0.346,0.73,-2.36,0.0437,96.184,0,4,Energetic,Energetic
+136,Deep Dark Jungle,Deep Dark Jungle,Nicky Romero,0FTDvOs2mzgHAqL31PBXO5,2019-03-08,0,145714,0.5870000000000001,0.000405,0.97,0.772,0.202,0.146,-4.512,0.216,128.069,8,4,Happy,Energetic
+138,Desire Lines,Split,Lush,63JP68VirmCXtWRoMTX8Xi,1994,39,459506,0.379,0.000169,0.652,0.0043,0.077,0.0724,-5.4060000000000015,0.0325,121.035,9,4,Sad,Energetic
+139,Devotion And Desire,Bayside,Bayside,27O9FuS1UIm6ZyLplgLQAH,2005-08-23,54,209626,0.296,0.0007019999999999,0.9,0.0,0.339,0.286,-4.918,0.0922,184.256,2,4,Energetic,Energetic
+142,Do Bad Well (feat. Nevve),Do Bad Well (feat. Nevve),KSHMR,7zHrHnVSQwI95FGHewXDl8,2019-10-11,62,204374,0.604,0.0512,0.894,0.000315,0.234,0.415,-4.755,0.113,127.964,5,4,Energetic,Energetic
+143,Do It Again,Do It Again,Steve Aoki,5yzzy7Hevww3RDntQM5mG1,2019-04-19,0,176129,0.701,0.119,0.95,0.00355,0.221,0.477,-3.026,0.0675,124.002,9,4,Energetic,Energetic
+146,Don't Stop Me Now - 2011 Mix,Jazz (Deluxe Remastered Version),Queen,7hQJA50XrCWABAu5v6QZ4i,1978-11-10,74,209413,0.563,0.0472,0.865,0.000191,0.77,0.601,-5.277,0.16,156.27100000000004,5,4,Happy,Energetic
+150,Dragula,Hellbilly Deluxe,Rob Zombie,6Nm8h73ycDG2saCnZV8poF,1998-01-01,70,222826,0.591,8.740000000000001e-05,0.963,0.000107,0.0781,0.609,-6.489,0.0531,125.03,0,4,Energetic,Energetic
+154,Duality,Vol. 3: The Subliminal Verses,Slipknot,61mWefnWQOLf90gepjOCb3,2004,76,252613,0.354,0.000237,0.982,0.000294,0.204,0.194,-3.026,0.168,143.77200000000005,4,4,Energetic,Energetic
+155,Duck And Run,The Better Life,3 Doors Down,0s8OsDxW96cl290PcsI2mX,2000,43,230600,0.524,0.0149,0.919,7.049999999999999e-05,0.131,0.848,-5.505,0.0436,87.931,4,4,Energetic,Energetic
+164,Electronic Memories (feat. Mickey Kojak),Find Paradise,k?d,2viJufnGlsjR1X51CEHpeg,2018-10-05,51,237346,0.602,0.0992,0.926,0.0449,0.241,0.574,-1.62,0.0897,100.014,5,4,Energetic,Energetic
+167,Enemy,Seasons - Clean,Sevendust,3eqyYjMYUHGlmtCP4C4iSX,2003-10-07,43,183400,0.5720000000000001,0.000181,0.99,0.000295,0.118,0.397,-1.992,0.066,106.912,1,4,Energetic,Energetic
+176,Faces,Scary Kids Scaring Kids,Scary Kids Scaring Kids,2G7cxwbFSMneFgTMdnvICw,2007-09-25,43,205706,0.368,3.44e-05,0.967,3.44e-05,0.317,0.537,-3.464,0.0566,194.982,2,4,Energetic,Energetic
+180,Falling Away from Me,Issues,Korn,2F6FfZ4w8z3eJpSxPotVO5,1999-11-09,70,270920,0.468,0.00014,0.769,0.00124,0.271,0.17,-7.0360000000000005,0.041,104.102,4,4,Energetic,Energetic
+181,Fantasy - R3HAB Remix,Fantasy (R3HAB Remix),Sofie Tukker,3iGMErA58MMTYT1mBkUkRf,2019-04-19,19,188346,0.7,0.113,0.7509999999999999,0.00129,0.241,0.246,-3.853,0.0566,124.027,4,4,Energetic,Energetic
+183,Feeling This,blink-182,blink-182,26AYR77170U49cMcXB7aRV,2003-11-01,66,172645,0.411,0.103,0.962,0.0,0.529,0.622,-5.952000000000001,0.0917,173.143,4,4,Energetic,Energetic
+191,Flex,Flex,Fedde Le Grand,43p1IlKF0PBgwkqzS2EdCk,2018-05-14,42,155546,0.609,0.017,0.912,0.0335,0.44,0.5329999999999999,-3.823,0.0486,128.0,0,4,Energetic,Energetic
+195,Flying by Candlelight (ABGT300) - Above & Beyond Club Mix,Group Therapy 300 Live from Hong Kong (ABGT300),Above & Beyond,0TEW7oRDKD2mjJQH507ni4,2018-10-05,47,364743,0.532,0.000312,0.664,0.0427,0.303,0.075,-9.804,0.0603,128.97299999999998,1,4,Energetic,Energetic
+199,Free,TOGETHER,Third Party,6s2T9kuNYNZKsG5Fa1LiDN,2019-03-15,50,228971,0.481,0.0238,0.922,0.00185,0.0971,0.246,-4.17,0.064,127.931,3,4,Happy,Energetic
+201,Friday I'm In Love,Wish,The Cure,4QlzkaRHtU8gAdwqjWmO8n,1992-01-01,76,215160,0.526,0.00126,0.763,6.75e-05,0.359,0.514,-12.663,0.0341,136.205,0,4,Happy,Energetic
+202,From Yesterday,A Beautiful Lie + 30 Seconds To Mars,Thirty Seconds To Mars,4ogyT8HqLV6IdCepscSkh3,2007-05-15,0,245933,0.467,0.00578,0.8759999999999999,0.00592,0.0453,0.131,-4.841,0.0693,135.055,10,4,Energetic,Energetic
+206,Gasoline,Disclaimer II,Seether,4e7yuouxvWPbK1q2kVlgz8,2004-01-01,39,168560,0.478,4.650000000000001e-05,0.942,0.0336,0.061,0.726,-2.71,0.08,173.515,1,4,Energetic,Energetic
+210,Getting Away With Murder,Getting Away With Murder (Explicit Version),Papa Roach,3YQopTaSSgLSSuzYBZ9bLf,2004-01-01,0,191239,0.544,0.000115,0.97,3.34e-05,0.238,0.349,-3.78,0.0532,103.909,1,4,Energetic,Energetic
+213,Go With The Flow,Songs For The Deaf,Queens of the Stone Age,45DElIx0dXqUH4A88yQFdE,2002,59,187120,0.242,0.0148,0.992,0.113,0.833,0.374,-3.9,0.0988,159.37,4,4,Energetic,Energetic
+214,Gone My Way - KhoMha Remix,Gone My Way (KhoMha Remix),Morgan Page,08Hghm2hJpCxJux9YuhCG0,2019-05-10,46,168750,0.547,0.00129,0.895,0.107,0.288,0.0353,-7.081,0.0683,128.02200000000002,5,4,Energetic,Energetic
+225,Guernica,Deja Entendu,Brand New,7lUjs7bf1fjKI8HKhbNp6z,2003-06-17,44,203173,0.382,0.127,0.907,5.65e-06,0.0915,0.346,-6.382999999999999,0.295,183.35,10,4,Energetic,Energetic
+226,Halfway There (feat. Lena Leon),Halfway There (feat. Lena Leon),Tiësto,3EKKIR8be1kfAAwaz1fzyS,2019-03-15,58,195000,0.59,0.000753,0.888,0.00535,0.8170000000000001,0.0715,-4.151,0.0797,128.025,0,4,Energetic,Energetic
+227,Handful Of Redemption,Tomorrow Come Today,Boysetsfire,3ekjqtjoDwy5YLuGtKoXDO,2003-01-01,34,240253,0.508,0.00022,0.947,0.0315,0.0784,0.419,-3.684,0.0531,163.731,3,4,Energetic,Energetic
+232,Heaven - David Guetta & MORTEN Remix,Heaven (David Guetta & MORTEN Remix),Avicii,4QAUGy6k7c3IOAhgWz52r7,2019-08-23,66,215238,0.5720000000000001,0.00292,0.934,0.0198,0.105,0.204,-5.053,0.0446,125.948,6,4,Happy,Energetic
+234,Heavy,Home,Collective Soul,3vqt0fEt6I52ANHu7mAlIP,2006-02-07,55,177213,0.535,0.000919,0.8540000000000001,0.00149,0.0676,0.618,-6.519,0.0368,106.929,1,4,Energetic,Energetic
+236,Highway to Hell,Highway to Hell,AC/DC,2zYzyRzz6pRmhPzyfMEC8s,1979-07-27,83,208400,0.574,0.061,0.913,0.00158,0.156,0.423,-4.793,0.133,115.728,6,4,Happy,Energetic
+237,Holding On,Scary Kids Scaring Kids,Scary Kids Scaring Kids,48H6uWuBYeeZUiXwb5f69K,2007-09-25,45,261240,0.421,0.000442,0.935,0.000212,0.1,0.455,-5.153,0.0697,165.02,8,4,Energetic,Energetic
+238,Hollowman,Trapt,Trapt,3MOdqpj30w4Wk96bBwLJk9,2002-11-05,36,303013,0.502,0.000214,0.92,0.0,0.306,0.182,-4.588,0.0611,159.884,2,4,Energetic,Energetic
+239,Holy Water,Holy Water,Galantis,7Ga9ZSdPAcQXQvd1ObVFpm,2019-09-27,62,176657,0.5870000000000001,0.0653,0.7340000000000001,0.000571,0.398,0.401,-4.558,0.0407,125.848,9,4,Energetic,Energetic
+240,Home,Home,Lucas & Steve,3Qsp2uAtcDCrrlknJtUPj8,2018-07-20,46,189834,0.544,0.00851,0.932,0.00811,0.157,0.337,-5.816,0.0679,125.954,10,4,Energetic,Energetic
+241,"Honey, This Mirror Isn't Big Enough for the Two of Us","I Brought You My Bullets, You Brought Me Your Love",My Chemical Romance,5gNVTfD1L6QrPgOf0wFo0q,2002,54,231096,0.383,0.000328,0.946,1.13e-06,0.0537,0.534,-8.122,0.0789,108.591,1,4,Energetic,Energetic
+242,Hoovela,Hoovela,Steve Aoki,1dssHOp3HpaK9o5c0CL7xU,2018-10-05,0,207295,0.341,0.00123,0.989,0.8220000000000001,0.4,0.119,-3.828,0.111,103.48,4,1,Happy,Energetic
+246,Humans (Let Me Love You),Humans (Let Me Love You),Sick Individuals,1IB1GFSTgmeecjscmAJ0lW,2019-05-24,59,161048,0.584,0.21,0.835,1.49e-06,0.126,0.371,-3.663,0.0584,128.106,7,4,Happy,Energetic
+252,I Stand Alone,"Good Times, Bad Times - Ten Years of Godsmack",Godsmack,6pGJTJaExyKwwXBmcoyVlY,2007-01-01,0,243840,0.211,4.51e-05,0.921,0.0,0.1,0.351,-4.468,0.0729,171.9,0,4,Energetic,Energetic
+257,I'm Not Okay (I Promise),Three Cheers for Sweet Revenge,My Chemical Romance,7lRlq939cDG4SzWOF4VAnd,2004-06-08,73,186480,0.21,0.00602,0.94,0.0,0.269,0.255,-3.427,0.123,179.722,9,4,Energetic,Energetic
+260,ID8,ID8,Dimitri Vangelis & Wyman,2jxfHzOYVLmGKejNRHvqoc,2020-03-06,51,197183,0.5760000000000001,0.0198,0.948,0.000123,0.6829999999999999,0.193,-4.251,0.0898,128.029,9,3,Happy,Energetic
+268,Inside Of You,Every Man For Himself (Red Package),Hoobastank,6okaxit4V1bU6yIVVsP836,2006-01-01,0,188800,0.435,0.000203,0.884,0.0,0.0876,0.82,-3.468,0.0392,201.773,2,4,Energetic,Energetic
+269,Inside the Fire,Disturbed,Disturbed,1xHcapGIorRGVlBnWE7X4N,2010-04-26,12,231573,0.463,0.000233,0.962,0.109,0.0906,0.66,-6.43,0.0704,94.003,7,4,Energetic,Energetic
+275,It's Goin' Down (feat. Mike Shinoda & Mr. Hahn),Built From Scratch,X-Ecutioners,6Xb5klX1nnSUxoh2AyZd54,2002-02-26,40,248573,0.674,0.00165,0.89,0.0136,0.0465,0.9,-3.953,0.274,104.862,8,4,Energetic,Energetic
+289,Killing In The Name,Rage Against The Machine - XX (20th Anniversary Special Edition),Rage Against The Machine,59WN2psjkt1tyaxjspN8fp,1992,78,313573,0.466,0.0266,0.833,0.0,0.0327,0.6609999999999999,-4.215,0.304,88.785,7,4,Energetic,Energetic
+301,Lay Your Head On Me (feat. Marcus Mumford),Lay Your Head On Me (feat. Marcus Mumford),Major Lazer,0oB9964bp22Bmok0Dmxlzb,2020-03-26,61,199895,0.6579999999999999,0.0471,0.765,1.02e-05,0.0936,0.222,-7.002000000000002,0.0469,119.974,11,4,Happy,Energetic
+304,Let's Go Crazy,Purple Rain,Prince,0QeI79sp1vS8L3JgpEO7mD,1984-06-25,63,280000,0.309,0.0192,0.93,0.0022,0.106,0.376,-6.399,0.125,195.815,11,4,Happy,Energetic
+305,Lift Me Up (feat. Carla Monroe),Lift Me Up (feat. Carla Monroe),Oliver Heldens,0vK80mtYypq4dAwQelZ2Dh,2019-11-15,65,177120,0.579,0.0426,0.784,0.0235,0.317,0.562,-4.686,0.0659,125.122,5,4,Energetic,Energetic
+308,Lights Go Down,Lights Go Down,Mike Candys,2shD8wlebq8fDg6ChqOPkC,2019-10-18,57,155520,0.741,0.00254,0.812,0.104,0.301,0.146,-5.356,0.039,124.991,1,4,Energetic,Energetic
+310,Like The Way I Do,Greatest Hits - The Road Less Traveled,Melissa Etheridge,38TXeCvUUqf3PeoPvnERV6,2005,0,324760,0.591,0.0213,0.931,0.0,0.122,0.6729999999999999,-4.84,0.0557,101.551,2,4,Happy,Energetic
+315,Listening,In Love and Death,The Used,528rajP3OyhornDwrsQrt4,2004-09-27,40,166226,0.475,0.000121,0.907,0.0,0.034,0.408,-5.064,0.0941,92.578,0,4,Energetic,Energetic
+318,Little Talks,My Head Is An Animal,Of Monsters and Men,2ihCaVdNZmnHZWt0fvAM7B,2012-01-01,78,266600,0.457,0.0206,0.757,0.0,0.146,0.417,-5.1770000000000005,0.032,102.961,1,4,Happy,Energetic
+319,Little Things,Sixteen Stone,Bush,29IRVQao62okE22TDamSnm,1994-12-06,0,264293,0.3670000000000001,0.000229,0.915,0.0,0.184,0.215,-5.452999999999999,0.0682,112.642,7,4,Energetic,Energetic
+334,Machinehead,Bush Digital Collection,Bush,1iTzI4NSQNLIETWDJ1WNWi,2005,0,256360,0.15,4.24e-05,0.875,0.00103,0.0957,0.156,-7.27,0.0975,169.80599999999995,9,3,Energetic,Energetic
+335,Mad About You,The Magnificent Tree,Hooverphonic,5drK2kTE2mrUdV33iHWyrx,2000,62,223733,0.465,0.00109,0.8440000000000001,0.399,0.0865,0.155,-4.352,0.0379,170.358,1,4,Happy,Energetic
+336,Make Believe,Make Believe,Quintino,56oqWZUaA8ZmHQCH3lCRI3,2019-08-09,59,194531,0.5870000000000001,0.03,0.882,0.116,0.195,0.0653,-5.837999999999999,0.0427,127.97,0,4,Energetic,Energetic
+343,Midnight Sun,Midnight Sun,Nicky Romero,6qTP59Amjny78Qd8zayuNW,2019-05-10,57,145039,0.614,0.0574,0.98,2.51e-05,0.086,0.179,-3.61,0.199,127.062,3,4,Energetic,Energetic
+358,Mudshovel,Dysfunction,Staind,6264zKFgXM13JuRBX4MMyD,1999-04-13,65,282093,0.328,0.000224,0.826,0.000944,0.0818,0.341,-5.085,0.0362,106.606,6,4,Energetic,Energetic
+360,My Favourite Game,Best Of,The Cardigans,4LpOPF5RXZhS1GLzclhyaT,2008-01-25,0,220413,0.594,0.000156,0.7659999999999999,0.00345,0.086,0.453,-7.598,0.0327,143.482,5,4,Energetic,Energetic
+361,My Hero,Greatest Hits,Foo Fighters,7u5dBtASrtOuBTTZjJrvuJ,2009-11-03,60,258973,0.364,6.01e-05,0.925,0.000251,0.0603,0.301,-4.224,0.0659,153.981,4,4,Energetic,Energetic
+362,My Own Worst Enemy,A Place In The Sun,Lit,33iv3wnGMrrDugd7GBso1z,1999-02-22,72,169026,0.494,0.00129,0.946,0.0,0.398,0.741,-2.757,0.0637,103.408,4,4,Energetic,Energetic
+364,My Way - Marcus Santoro Remix,My Way (ft. Alice Berg) [Marcus Santoro Remix],Nicky Romero,29pQasEiyy3Otgq55dzyTt,2019-03-19,0,181147,0.563,0.0122,0.882,2.09e-06,0.0641,0.296,-4.755,0.0596,125.043,1,4,Energetic,Energetic
+369,Never Letting Go,Never Letting Go,Audien,5llPdGZJjJFJv9aL6ZaiLY,2018-11-09,58,172519,0.534,0.0915,0.765,0.00107,0.225,0.117,-3.151,0.0338,127.978,1,4,Happy,Energetic
+382,Not Alone,Not Alone,Otto Knows,7tx0NDsCViutjOyd1c4A28,2016-11-25,44,215447,0.68,0.0053799999999999,0.721,0.000216,0.0679,0.267,-6.21,0.0355,122.0,7,4,Happy,Energetic
+383,Nowhere Kids,Shapeshifter,Smile Empty Soul,08EI81e55Lcqg2ZelJOXcG,2016-04-01,36,248413,0.511,0.000106,0.914,0.00097,0.195,0.393,-5.31,0.0457,99.011,8,4,Energetic,Energetic
+389,On My Way (feat. Jordan Kaahn),On My Way (feat. Jordan Kaahn),Robbie Rivera,0kDTkI3VN3LEObv3v3ehhY,2018-07-20,48,218000,0.6609999999999999,0.0188,0.93,0.00146,0.0919,0.3670000000000001,-4.208,0.0617,122.052,7,4,Happy,Energetic
+390,One More Night,One More Night,Labi Ramaj,0Ov2L3hgjc5TlxKuBpKOQK,2020-02-20,41,180972,0.62,0.00402,0.897,8.56e-05,0.108,0.183,-3.595,0.086,126.013,11,4,Energetic,Energetic
+391,One Night - D.O.D Remix,One Night (D.O.D Remix),Cedric Gervais,5Q0VxlFh80F3LmbGnuDE4M,2018-05-04,41,252500,0.6809999999999999,0.00732,0.969,0.199,0.219,0.26,-1.394,0.0702,126.024,1,4,Energetic,Energetic
+392,One Step Closer,Hybrid Theory,Linkin Park,61fUybL3XS40gcffnnNPoX,2000-10-24,54,157333,0.4920000000000001,0.0014,0.969,1.32e-06,0.0787,0.5379999999999999,-4.419,0.0491,95.136,9,4,Energetic,Energetic
+398,Our Lady of Sorrows,"I Brought You My Bullets, You Brought Me Your Love",My Chemical Romance,46mPWQpvSFkXrr5nWoWW74,2002,50,125626,0.271,0.00099,0.931,0.0,0.182,0.382,-6.81,0.0785,142.407,1,4,Energetic,Energetic
+399,Out Of Control,The Reason,Hoobastank,2Uk3uky365BBGidUpOtKvw,2003-01-01,0,162106,0.443,0.00161,0.973,0.0,0.353,0.458,-4.386,0.133,157.872,4,4,Energetic,Energetic
+401,Out of Control,Blind Spot,Lush,13i7d4s5EkgOIDHdzM0R4w,2017-09-30,0,262253,0.328,0.0041,0.799,6.29e-06,0.069,0.502,-5.992000000000001,0.0296,169.896,2,3,Sad,Energetic
+404,Over My Head (Better Off Dead),Does This Look Infected?,Sum 41,3SO0vfryYv381w1ImgWONG,2002-01-01,49,149306,0.44,0.00222,0.919,0.00503,0.0892,0.773,-4.462,0.0735,184.324,7,4,Energetic,Energetic
+405,Pain,A Deeper Understanding,The War On Drugs,59P1nrdEImkAKa1nyW9X2e,2017-08-25,60,330760,0.523,0.00387,0.833,0.000339,0.0841,0.482,-4.374,0.0405,115.975,7,4,Sad,Energetic
+407,Papercut,Hybrid Theory (Bonus Edition),Linkin Park,1Vej0qeQ3ioKwpI6FUbRv1,2000-10-24,73,184866,0.524,0.00022,0.939,0.0,0.623,0.6609999999999999,-3.994,0.113,150.184,9,4,Energetic,Energetic
+414,People Are Strange - Festival Mix,People Are Strange (Incl. Festival Mix),KAAZE,5b61rcrjF6JG7yq0RRaOLh,2019-11-01,51,195468,0.636,0.00222,0.912,0.0269,0.598,0.0765,-5.671,0.091,127.963,11,4,Energetic,Energetic
+423,Poem,Welcome,Taproot,7mQwxVogsnpR3h6AJLQLlR,2002-09-30,57,189200,0.364,0.000104,0.912,0.0025,0.086,0.6659999999999999,-2.968,0.107,105.368,7,4,Energetic,Energetic
+424,Points of Authority,Hybrid Theory,Linkin Park,04mlpyRplis2yvf18EwaeN,2000-10-24,45,200240,0.512,0.03,0.97,0.0,0.0994,0.4270000000000001,-3.886,0.212,94.952,8,4,Energetic,Energetic
+427,Prayer Of The Refugee,Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness,Rise Against,3wTyLh0vhP3dN5yv0Mti17,2012-01-01,0,199386,0.198,0.00131,0.977,4.620000000000001e-05,0.23,0.351,-3.499,0.173,195.795,3,4,Energetic,Energetic
+443,Reinventing Your Exit,They're Only Chasing Safety,Underoath,591vJuuep0gfPhx9p8WPD5,2004-01-01,57,262573,0.45,0.000124,0.978,7.14e-06,0.361,0.268,-4.198,0.0637,155.014,9,4,Energetic,Energetic
+446,Renegades Of Funk,Renegades,Rage Against The Machine,5YBVDvTSSSiqv7KZDeUlXA,2000-12-05,66,274160,0.6509999999999999,0.00184,0.908,0.000579,0.384,0.769,-4.019,0.0577,123.851,2,4,Energetic,Energetic
+447,Rescue Me,Rescue Me,DubVision,7DP18u679fMurjsUxuxMHu,2019-06-14,57,187382,0.494,0.069,0.7390000000000001,0.000368,0.0664,0.235,-4.61,0.0427,128.007,6,4,Energetic,Energetic
+450,Ring The Alarm - Stadiumx Remix,Ring The Alarm (Remixes),Nicky Romero,3LmiKN6q3OwFD3sV8rhkk2,2019-04-19,45,173333,0.625,0.00032,0.994,0.0461,0.767,0.35,-1.689,0.0501,125.032,1,4,Energetic,Energetic
+451,Rise (ft. Matluck) - Thomas Gold Remix,Rise (ft. Matluck) [Thomas Gold Remix],Nicky Romero,24fghf9YPlSHoWKNHign8p,2018-10-10,0,225937,0.501,0.0071,0.784,0.000257,0.155,0.216,-4.292,0.0417,128.05200000000002,7,4,Energetic,Energetic
+457,Rusted From the Rain,Billy Talent III,Billy Talent,0tzWCL2uhb2xQDWgG259nU,2009-09-22,47,254613,0.431,0.000481,0.858,7.65e-06,0.385,0.616,-3.533,0.0306,174.979,7,4,Energetic,Energetic
+461,Sahara Love - Seven Lions Remix,Sahara Love,Above & Beyond,6KjTXwntv8paBCL3El9TnV,2019-03-08,52,322892,0.275,0.0418,0.659,4.15e-05,0.079,0.149,-5.631,0.039,144.908,6,4,Energetic,Energetic
+462,Same Direction,The Reason,Hoobastank,7p5HBV5kqLgw0vK0lQ7eXM,2003-01-01,0,195293,0.401,0.00492,0.988,0.0,0.4,0.514,-3.3080000000000003,0.0916,169.024,2,4,Energetic,Energetic
+465,Savior,Appeal To Reason,Rise Against,3asFGFY3uLjMDmML1p0tYm,2008-01-01,70,242280,0.339,0.0015,0.931,0.0001419999999999,0.425,0.467,-3.425,0.062,112.548,5,4,Energetic,Energetic
+466,Say Days Ago,The Used,The Used,0fcGdkaMVaJtPuYLB6bXRx,2002-06-25,40,197866,0.362,0.00022,0.979,0.0,0.459,0.195,-4.262,0.205,89.431,4,4,Energetic,Energetic
+475,Shimmer,The Best of Fuel,Fuel,6DzbmjkVZpz1mrDobAoJI8,2005,57,213948,0.263,0.00192,0.784,0.0,0.15,0.385,-6.513999999999999,0.054,114.671,7,4,Energetic,Energetic
+476,Shine,Shine,Manse,6YbVddGFPcfOVJrxhUusbV,2019-08-02,54,163124,0.428,0.0259,0.873,2.64e-05,0.6679999999999999,0.285,-3.499,0.0566,127.95,10,4,Happy,Energetic
+489,Smooth Criminal,Anthology,Alien Ant Farm,2T3blUc9Jnui2a0ZhuNOag,2001-01-01,0,209266,0.653,0.00287,0.966,0.0026,0.143,0.8740000000000001,-4.2360000000000015,0.0598,126.921,9,4,Energetic,Energetic
+493,Somebody - Josef Bamba Remix Radio Edit,Somebody (Josef Bamba Remixes),Oliver Ingrosso,5riuN21I50r717iOmCJ7Kr,2017-07-21,42,227404,0.67,0.00162,0.88,0.0,0.261,0.312,-6.419,0.044,121.004,4,4,Happy,Energetic
+497,Someone New,Someone New,Thomas Gold,2GkPTpFLY0NG8jrAHPoSnn,2019-06-14,58,182812,0.655,0.00297,0.794,1.34e-05,0.1,0.389,-5.29,0.0765,127.957,6,4,Happy,Energetic
+501,South Beach,South Beach,Vicetone,4GQVsXO7jkxg43UmAd1Tbb,2018-10-12,54,201951,0.501,0.0303,0.887,2.64e-05,0.114,0.336,-3.941,0.0424,123.052,1,4,Energetic,Energetic
+505,Stay Here,Stay Here,Olaars & Will Philips,69vYa2LVWv1TXvNIVNlJA1,2019-07-12,52,176129,0.4320000000000001,0.0149,0.8390000000000001,0.0,0.362,0.269,-3.901,0.0425,123.987,6,4,Energetic,Energetic
+512,Story Of A Violin,Story Of A Violin,Sandro Silva,3JjPOBCCKmvtgSsVIDqFDl,2019-06-07,52,154692,0.5479999999999999,0.0125,0.8640000000000001,0.287,0.818,0.161,-6.835,0.0881,128.196,11,4,Happy,Energetic
+514,Streets,Rivals,Kensington,265poZGWCyWo6h5tq7kiA6,2014-08-08,0,185358,0.376,0.000874,0.7709999999999999,8.98e-06,0.274,0.419,-5.8,0.0422,168.15400000000002,6,4,Happy,Energetic
+515,Stricken,Ten Thousand Fists,Disturbed,4VGUcTzWj0ebZ0UgI9irJL,2005-09-19,0,245109,0.404,8.51e-05,0.969,0.0114,0.268,0.29,-2.938,0.195,173.878,8,4,Energetic,Energetic
+517,Stupify,The Sickness (10th Anniversary Edition),Disturbed,54cWVWqgyFukgDKQYmaKM3,2010-03-12,61,274000,0.597,0.00108,0.939,9.77e-05,0.201,0.422,-3.0010000000000003,0.0446,98.0,1,4,Energetic,Energetic
+519,Suds & Soda,Worst Case Scenario,dEUS,0MaUnKwsHKRj4qjLDuBG66,1994-01-01,42,314200,0.149,8.51e-05,0.79,0.000248,0.0903,0.39,-7.93,0.052,170.28900000000004,4,4,Happy,Energetic
+523,Sun In Our Eyes - Don Diablo Remix,Sun In Our Eyes (Don Diablo Remix),MØ,1Cfws8y490Zpsqsyeme6V1,2018-08-08,55,206452,0.6990000000000001,0.0589,0.861,2.64e-06,0.0794,0.315,-3.09,0.173,125.942,4,3,Happy,Energetic
+526,Supersonic (feat. Christian Burns),Supersonic (feat. Christian Burns),Swanky Tunes,2d0UsAbvuAiCyR4oV6fiOq,2019-02-18,52,245783,0.34,0.00814,0.923,0.0008289999999999,0.385,0.13,-3.864,0.131,127.789,0,4,Energetic,Energetic
+529,Swerve City,Koi No Yokan,Deftones,2OUR8g12h5qsGDs1v5lqvp,2012-11-09,55,164986,0.457,0.0001,0.964,0.00811,0.67,0.3720000000000001,-2.963,0.0656,111.972,10,4,Energetic,Energetic
+530,Take Everything,Take Everything,Gareth Emery,2L93hpsnJ8scBHIQFZzh1b,2018-12-14,54,212238,0.506,0.0234,0.823,0.000916,0.303,0.405,-5.272,0.0424,133.954,6,4,Happy,Energetic
+537,Tears Don't Fall,The Poison,Bullet For My Valentine,1kdiiFGX1Htx0aVZYaDwEJ,2006-02-14,61,348386,0.212,0.000725,0.926,4.83e-06,0.081,0.262,-3.378,0.14,162.10299999999995,7,4,Energetic,Energetic
+541,Thank You for the Venom,Three Cheers for Sweet Revenge,My Chemical Romance,0BpKPyXhWsTaWkgXeOd1Sn,2004-06-08,61,221093,0.486,0.00237,0.977,0.0,0.298,0.413,-3.463,0.0603,103.501,7,4,Energetic,Energetic
+551,The Funeral,The Road Mix: Music From The Television Series One Tree Hill Vol. 3,Various Artists,4Ao5JXfOIMJGlVo8sJpjFr,2007-04-02,0,321146,0.316,0.0143,0.769,0.0,0.0928,0.118,-5.285,0.0422,122.458,0,4,Sad,Energetic
+554,The Hell Song,All The Good Sh**. 14 Solid Gold Hits (2000-2008),Sum 41,2iyriVrfEXWD7YRfPqub7l,2009-01-01,37,199493,0.343,0.000135,0.956,0.00165,0.143,0.5529999999999999,-5.073,0.0739,173.325,8,4,Energetic,Energetic
+555,The Hummingbird,The Hummingbird,Barry Adamson,60Rodg2E5ghUbYBrBFr0TA,2018-09-26,0,221000,0.478,2.27e-05,0.901,0.0801,0.326,0.5770000000000001,-4.9830000000000005,0.0334,94.964,9,3,Sad,Energetic
+556,The Hunger,The Hunger,Bat For Lashes,7AaSbMyCeUxcGsvCmzmfEJ,2019-08-05,26,299000,0.436,0.0402,0.753,0.0204,0.148,0.399,-9.76,0.0359,89.96799999999998,4,4,Sad,Energetic
+558,The King (with Dzeko),The King (with Dzeko),Dimitri Vangelis & Wyman,40UbcJWyWPqOWFvv4Dpvfc,2019-06-14,59,209493,0.655,0.0587,0.726,0.00311,0.145,0.292,-4.614,0.0324,128.001,9,4,Energetic,Energetic
+563,The Safety Dance,Greatest,Men Without Hats,5O4NFbDqJ8SOfbjnIhdPDt,2013-02-11,61,164866,0.524,0.0252,0.8809999999999999,0.0,0.101,0.62,-4.479,0.0468,101.677,5,4,Happy,Energetic
+567,The Wall,The Wall,Alok,0Qp1IH1EkRCNabfgzxNMUT,2019-06-28,59,159500,0.682,0.00953,0.91,0.0673,0.0732,0.536,-2.314,0.0431,122.943,11,4,Energetic,Energetic
+568,There For You,There For You,Gorgon City,4Qv71lFPCObf7zol1uWCJb,2019-08-16,68,186493,0.5329999999999999,0.00529,0.8440000000000001,8.909999999999997e-05,0.0722,0.7120000000000001,-5.04,0.0302,123.971,11,4,Energetic,Energetic
+581,Toxic,Rattlesnake!,A Static Lullaby,34ccBqL3xNaCzPxr0UqoEw,2008-09-09,49,200240,0.555,3.01e-05,0.98,4.38e-05,0.0661,0.37,-6.063,0.154,143.005,8,4,Energetic,Energetic
+587,Tubthumping,Tubthumper,Chumbawamba,6dL46HEj2hzaSach8EFyCi,1997,0,279226,0.319,0.118,0.8809999999999999,0.0,0.364,0.625,-7.244,0.14,206.941,2,4,Happy,Energetic
+590,Two Princes,Pocket Full Of Kryptonite,Spin Doctors,4ePP9So5xRzspjLFVVbj90,1991-08-27,72,256733,0.5429999999999999,0.00162,0.912,2.1e-06,0.0565,0.836,-10.71,0.0601,103.731,7,4,Happy,Energetic
+592,Under A Killing Moon,The Artist In The Ambulance,Thrice,0XiivUyimrmkUyJkKiILPW,2003-01-01,41,161733,0.414,7.12e-06,0.988,0.44,0.0709,0.489,-3.703,0.0786,184.995,8,4,Energetic,Energetic
+599,Up Against (Blackout),Louder Now (Deluxe),Taking Back Sunday,7dx3zyB8aQHd2LQm0u1lwS,2006-04-24,0,182533,0.5489999999999999,0.000785,0.8759999999999999,0.0,0.288,0.741,-3.589,0.0404,146.549,6,3,Energetic,Energetic
+600,Uprising,The Resistance,Muse,4VqPOruhp5EdPBeR92t6lQ,2009-09-10,75,304840,0.602,0.000202,0.905,0.064,0.117,0.411,-4.046,0.0775,128.019,2,4,Energetic,Energetic
+605,Vamos,Vamos,Dimitri Vangelis & Wyman,0i6KOje3rNRSNPw0vy803g,2018-02-02,42,181237,0.52,0.00209,0.975,0.213,0.148,0.254,-3.66,0.0839,128.017,2,4,Energetic,Energetic
+609,Virtual Insanity - Remastered,High Times - The Singles 1992 - 2006,Jamiroquai,0dCr3qIupWh36ilLjRHi4P,2006-11-06,0,228333,0.6509999999999999,0.13,0.946,0.0,0.148,0.508,-4.717,0.101,91.911,6,4,Happy,Energetic
+611,Voices,The Sickness (10th Anniversary Edition),Disturbed,47H4oc7Zkihwae7ST7F4zp,2010-03-12,54,191960,0.589,0.000116,0.983,0.00211,0.0628,0.469,-2.521,0.121,110.007,10,4,Energetic,Energetic
+612,Wait For Me,Wanderlust,Steve Brian,6laq4MxNrh2ZKZGLhB7G0V,2018-12-07,52,217142,0.465,0.00987,0.7390000000000001,1.88e-06,0.373,0.0652,-7.786,0.0648,125.994,10,4,Happy,Energetic
+614,Waiting For Tomorrow (feat. Mike Shinoda),BYLAW EP,Martin Garrix,27YP211Rr8RezhiFVDLFI8,2018-10-19,56,247504,0.507,0.00731,0.887,0.0,0.562,0.336,-4.084,0.141,128.015,5,4,Energetic,Energetic
+618,Wash It All Away,Got Your Six (Deluxe),Five Finger Death Punch,6AKWOVOJ81OQfsgxZbJ6QN,2015-09-04,63,224906,0.485,2.08e-05,0.987,0.0,0.267,0.272,-3.1,0.0738,123.576,4,4,Energetic,Energetic
+624,We Are Your Friends - Justice Vs Simian,We Are Your Friends,Simian,49ErwcBYfYRPNBdRuPvpYA,2006-01-01,62,262773,0.615,0.0104,0.97,0.384,0.178,0.507,1.342,0.119,122.993,9,4,Happy,Energetic
+626,Welcome Home,Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness,Coheed and Cambria,42GP0xKtkolBnmqQRvSllO,2005-01-15,64,374973,0.442,0.00648,0.951,1.12e-06,0.0887,0.158,-5.27,0.11,154.004,11,4,Energetic,Energetic
+637,Whiskey In The Jar,"Garage, Inc.",Metallica,77gY3WsOnEsq9JOWgBmdLj,1998-11-24,0,304893,0.511,5.36e-06,0.972,0.00101,0.19,0.532,-3.751,0.0413,132.97,10,4,Energetic,Energetic
+638,White Lies,We Sound Electric,Stacy Crowne,0BvlCuNiWLE78NiZCiUxM7,2019-10-04,18,208353,0.336,0.00797,0.88,0.0,0.445,0.485,-5.675,0.0739,155.004,6,4,Energetic,Energetic
+639,White Lies - Guy Arthur Remix,White Lies (The Remixes),The Him,1FoMWISq2KNqKappkrG5Yo,2018-03-16,44,210000,0.6559999999999999,0.00428,0.8959999999999999,0.000137,0.192,0.506,-4.461,0.0936,128.026,9,4,Energetic,Energetic
+644,Wild Wild Son - Club Mix,Wild Wild Son (Club Mix),Armin van Buuren,2Fgo49RzWsVWKcwAksPWq8,2018-10-19,35,218200,0.526,0.00138,0.867,0.00064,0.0975,0.12,-4.332,0.0659,132.106,5,4,Energetic,Energetic
+650,Without,Inertia,The Exies,4qguRyO5RJexa48AuRwkLZ,2003-01-01,19,209906,0.523,0.000357,0.95,0.0,0.0944,0.479,-4.415,0.0467,99.231,6,4,Energetic,Energetic
+652,Wonderful Together (feat. Envy Monroe),Wonderful Together (feat. Envy Monroe),Blasterjaxx,3UaStdVN7y9A6ktTmkFDTk,2019-06-14,53,203076,0.591,0.0484,0.759,1.23e-06,0.108,0.235,-3.785,0.0404,130.043,5,4,Happy,Energetic
+653,Wonderwall,(What's the Story) Morning Glory?,Oasis,79RUMZfMNMpqZnswovvTqv,1995-10-02,15,258906,0.412,0.00214,0.8440000000000001,0.0,0.134,0.459,-5.613,0.037,174.452,2,4,Happy,Energetic
+656,Worlds Collide - Edison Cole Remix,Worlds Collide (Remixes),NERVO,3JqpIjrQfmW68YkpxXWPL4,2019-11-22,55,192413,0.631,0.0149,0.862,6.23e-05,0.103,0.438,-4.114,0.0515,145.01,8,4,Happy,Energetic
+661,You Can't Rely on My Love,You Can't Rely on My Love,Mordkey,6Nl2wvFyKjiyPKrhE4Rth1,2018-05-04,52,188571,0.6859999999999999,0.0534,0.775,9.39e-06,0.44,0.454,-7.247000000000001,0.185,126.013,11,4,Happy,Energetic
+664,"You're Gonna Go Far, Kid",21 Alt Rock Anthems,Various Artists,7oypoJJHZOALqQlGKpTefk,2014-07-22,0,178333,0.547,0.00485,0.877,0.0,0.247,0.611,-5.135,0.0658,126.083,9,4,Energetic,Energetic
